@@ -1,0 +1,65 @@
+@media (max-width: 768px) {
+.body {
+background: rgb(224, 215, 198);
+padding: 50px 20px;
+line-height: 1.6;
+}
+.section {
+padding: 60px 20px;
+
+}
+h1 {
+font-size: 26px;
+
+}
+h2 {
+font-size: 18px;
+}
+p {
+font-size: 16px;
+}
+.img {
+    max-width: 100%;
+}
+.link {
+    font-size: 20px;
+    background-color: #c3b5da;
+    color: rgb(223, 208, 208);
+    border-radius: 6px;
+}
+.link:hover {
+background-color: #5d93c8;
+
+}
+.logo-link {
+display: none;
+flex-direction: column;
+}
+.home,
+ .about {
+flex-direction: column;
+text-align: center;
+}
+.hero {
+    flex-direction: column;
+text-align: center;
+
+}
+
+.web-service {
+    display: flex;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+text-align: center;
+}
+ 
+.contact {
+    flex-direction: column;
+    text-align: center;
+}
+.footer {
+    font-size: 14px;
+}
+}
+
