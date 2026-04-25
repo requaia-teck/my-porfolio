@@ -12,7 +12,7 @@ h2 {
 font-size: 18px;
 }
 p {
-font-size: 12px;
+font-size: 16px;
 }
 .logo-link {
 display: none;
@@ -28,6 +28,10 @@ text-align: center;
 text-align: center;
 
 }
+ .img {
+  max-width: 100% };
+ .btn {
+  width: 100% };
 .service {
 flex-direction: column;
 text-align: center;
