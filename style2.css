@@ -45,6 +45,7 @@ padding: 10px;
   display: block;
 }
 .btn1 {
+    font-size: 20px; }
 display: none;
 position: absolute;
 top: 0.01;
