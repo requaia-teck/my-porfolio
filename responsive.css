@@ -1,0 +1,44 @@
+@media (max-width: 768px) {
+.body {
+background: rgb(224, 215, 198);
+
+}
+h1 {
+font-size: 20px;
+
+}
+h2 {
+font-size: 18px;
+}
+p {
+font-size: 12px;
+}
+.logo-link {
+display: none;
+flex-direction: column;
+}
+.home,
+ .about {
+flex-direction: column;
+text-align: center;
+}
+.hero {
+    flex-direction: column;
+text-align: center;
+
+}
+.service {
+flex-direction: column;
+text-align: center;
+
+}
+ 
+.contact {
+    flex-direction: column;
+    text-align: center;
+}
+.footer {
+    font-size: 14px;
+}
+}
+
